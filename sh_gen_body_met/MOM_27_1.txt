@@ -1,0 +1,11 @@
+MOM_27_1
+
+1)Trust also to be divided among Teaching,Non-Teach,Office
+2)Bus to be divided in Driver and Helper.
+3)Gross Pay after ESIC
+4)Food and Accomadation & Diduction to be in Annual salary.
+
+
+
+In view page of student and teachers make all headers different font-style
+
